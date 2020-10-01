@@ -12,5 +12,5 @@ To contribute to this repository, the repository must be cloned using the above 
 
 Example:
 
-    git submodule add git clone https://github.com/chaconinc/MainProject.git
+    git submodule add https://github.com/chaconinc/MainProject.git
 
