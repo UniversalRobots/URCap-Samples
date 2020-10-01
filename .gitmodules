@@ -1,0 +1,21 @@
+[submodule "SDK/driver/screwdriver/SimpleScrewdriver"]
+	path = SDK/driver/screwdriver/SimpleScrewdriver
+	url = https://github.com/UniversalRobots/SimpleScrewdriver.git
+[submodule "SDK/driver/screwdriver/CustomScrewdriver"]
+	path = SDK/driver/screwdriver/CustomScrewdriver
+	url = https://github.com/UniversalRobots/CustomScrewdriver.git
+[submodule "SDK/driver/screwdriver/AdvancedScrewdriver"]
+	path = SDK/driver/screwdriver/AdvancedScrewdriver
+	url = https://github.com/UniversalRobots/AdvancedScrewdriver.git
+[submodule "SDK/driver/gripper/SimpleGripper"]
+	path = SDK/driver/gripper/SimpleGripper
+	url = https://github.com/UniversalRobots/SimpleGripper.git
+[submodule "SDK/driver/gripper/CustomGripperSetup"]
+	path = SDK/driver/gripper/CustomGripperSetup
+	url = https://github.com/UniversalRobots/CustomGripperSetup.git
+[submodule "SDK/driver/gripper/AdvancedGripper"]
+	path = SDK/driver/gripper/AdvancedGripper
+	url = https://github.com/UniversalRobots/AdvancedGripper.git
+[submodule "SDK/driver/general/CustomUserInput"]
+	path = SDK/driver/general/CustomUserInput
+	url = https://github.com/UniversalRobots/CustomUserInput.git
