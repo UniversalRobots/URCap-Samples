@@ -49,3 +49,51 @@
 [submodule "SDK/html/ScriptFunctionHTML"]
 	path = SDK/html/ScriptFunctionHTML
 	url = https://github.com/UniversalRobots/ScriptFunctionHTML.git
+[submodule "SDK/swing/CreateFeatureSwing"]
+	path = SDK/swing/CreateFeatureSwing
+	url = https://github.com/UniversalRobots/CreateFeatureSwing.git
+[submodule "SDK/swing/CycleCounterSwing"]
+	path = SDK/swing/CycleCounterSwing
+	url = https://github.com/UniversalRobots/CycleCounterSwing.git
+[submodule "SDK/swing/EllipseSwing"]
+	path = SDK/swing/EllipseSwing
+	url = https://github.com/UniversalRobots/EllipseSwing.git
+[submodule "SDK/swing/GripAndReleaseSwing"]
+	path = SDK/swing/GripAndReleaseSwing
+	url = https://github.com/UniversalRobots/GripAndReleaseSwing.git
+[submodule "SDK/swing/HelloWorldSwing"]
+	path = SDK/swing/HelloWorldSwing
+	url = https://github.com/UniversalRobots/HelloWorldSwing.git
+[submodule "SDK/swing/IdleTimeSwing"]
+	path = SDK/swing/IdleTimeSwing
+	url = https://github.com/UniversalRobots/IdleTimeSwing.git
+[submodule "SDK/swing/LocalizationSwing"]
+	path = SDK/swing/LocalizationSwing
+	url = https://github.com/UniversalRobots/LocalizationSwing.git
+[submodule "SDK/swing/MoveUntilDetectionSwing"]
+	path = SDK/swing/MoveUntilDetectionSwing
+	url = https://github.com/UniversalRobots/MoveUntilDetectionSwing.git
+[submodule "SDK/swing/MyDaemonSwing"]
+	path = SDK/swing/MyDaemonSwing
+	url = https://github.com/UniversalRobots/MyDaemonSwing.git
+[submodule "SDK/swing/MyToolbar"]
+	path = SDK/swing/MyToolbar
+	url = https://github.com/UniversalRobots/MyToolbar.git
+[submodule "SDK/swing/NodeOrderingSwing"]
+	path = SDK/swing/NodeOrderingSwing
+	url = https://github.com/UniversalRobots/NodeOrderingSwing.git
+[submodule "SDK/swing/PickOrPlaceSwing"]
+	path = SDK/swing/PickOrPlaceSwing
+	url = https://github.com/UniversalRobots/PickOrPlaceSwing.git
+[submodule "SDK/swing/ScriptFunctionSwing"]
+	path = SDK/swing/ScriptFunctionSwing
+	url = https://github.com/UniversalRobots/ScriptFunctionSwing.git
+[submodule "SDK/swing/ToolChangerSwing"]
+	path = SDK/swing/ToolChangerSwing
+	url = https://github.com/UniversalRobots/ToolChangerSwing.git
+[submodule "SDK/swing/ToolIOControlSwing"]
+	path = SDK/swing/ToolIOControlSwing
+	url = https://github.com/UniversalRobots/ToolIOControlSwing.git
+[submodule "SDK/swing/UserInput"]
+	path = SDK/swing/UserInput
+	url = https://github.com/UniversalRobots/UserInput.git
