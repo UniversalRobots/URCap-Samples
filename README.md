@@ -1,7 +1,7 @@
 URCap Samples
 
 This repository contains samples for the SDK, URPlus Team and the UR Community.
-Each samples are added as a subodule which means that it contains references to existing repository. Therefore, cloning the 
+Each sample is added as a submodule which means that the repository contains references to existing repository. Therefore, cloning the 
 repository requires the user to clone using the following command (git command):
 
     git clone --recurse-submodules https://github.com/thphr/URCap-Samples.git
