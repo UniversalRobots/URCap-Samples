@@ -19,3 +19,33 @@
 [submodule "SDK/driver/general/CustomUserInput"]
 	path = SDK/driver/general/CustomUserInput
 	url = https://github.com/UniversalRobots/CustomUserInput.git
+[submodule "SDK/html/CoordinateMapHTML"]
+	path = SDK/html/CoordinateMapHTML
+	url = https://github.com/UniversalRobots/CoordinateMapHTML.git
+[submodule "SDK/html/CycleCounterHTML"]
+	path = SDK/html/CycleCounterHTML
+	url = https://github.com/UniversalRobots/CycleCounterHTML.git
+[submodule "SDK/html/EllipseHTML"]
+	path = SDK/html/EllipseHTML
+	url = https://github.com/UniversalRobots/EllipseHTML.git
+[submodule "SDK/html/HelloWorldHTML"]
+	path = SDK/html/HelloWorldHTML
+	url = https://github.com/UniversalRobots/HelloWorldHTML.git
+[submodule "SDK/html/IdleTimeHTML"]
+	path = SDK/html/IdleTimeHTML
+	url = https://github.com/UniversalRobots/IdleTimeHTML.git
+[submodule "SDK/html/LocalizationHTML"]
+	path = SDK/html/LocalizationHTML
+	url = https://github.com/UniversalRobots/LocalizationHTML.git
+[submodule "SDK/html/MyDaemonHTML"]
+	path = SDK/html/MyDaemonHTML
+	url = https://github.com/UniversalRobots/MyDaemonHTML.git
+[submodule "SDK/html/NodeOrderingHTML"]
+	path = SDK/html/NodeOrderingHTML
+	url = https://github.com/UniversalRobots/NodeOrderingHTML.git
+[submodule "SDK/html/PickOrPlaceHTML"]
+	path = SDK/html/PickOrPlaceHTML
+	url = https://github.com/UniversalRobots/PickOrPlaceHTML.git
+[submodule "SDK/html/ScriptFunctionHTML"]
+	path = SDK/html/ScriptFunctionHTML
+	url = https://github.com/UniversalRobots/ScriptFunctionHTML.git
