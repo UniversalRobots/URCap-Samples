@@ -97,3 +97,6 @@
 [submodule "SDK/swing/UserInput"]
 	path = SDK/swing/UserInput
 	url = https://github.com/UniversalRobots/UserInput.git
+[submodule "URPlus Team/URCap_StyleGuide_Library"]
+	path = URPlus Team/URCap_StyleGuide_Library
+	url = https://github.com/thphr/URCap_StyleGuide_Library.git
