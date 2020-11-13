@@ -100,3 +100,36 @@
 [submodule "URPlus Team/URCap_StyleGuide_Library"]
 	path = URPlus Team/URCap_StyleGuide_Library
 	url = https://github.com/thphr/URCap_StyleGuide_Library.git
+[submodule "URPlus Team/URCap-ScriptCommunicator"]
+	path = URPlus Team/URCap-ScriptCommunicator
+	url = https://github.com/EbbeFuglsang/URCap-ScriptCommunicator
+[submodule "URPlus Team/URCap-ScriptWrapper"]
+	path = URPlus Team/URCap-ScriptWrapper
+	url = https://github.com/BomMadsen/URCap-ScriptWrapper
+[submodule "URPlus Team/URCap-WhipWelding"]
+	path = URPlus Team/URCap-WhipWelding
+	url = https://github.com/BomMadsen/URCap-WhipWelding
+[submodule "URPlus Team/URCap-ProgramMonitor"]
+	path = URPlus Team/URCap-ProgramMonitor
+	url = https://github.com/BomMadsen/URCap-ProgramMonitor
+[submodule "URPlus Team/URCap-XMLRPCMath"]
+	path = URPlus Team/URCap-XMLRPCMath
+	url = https://github.com/BomMadsen/URCap-XMLRPCMath
+[submodule "URPlus Team/URCap-VisionTemplate"]
+	path = URPlus Team/URCap-VisionTemplate
+	url = https://github.com/BomMadsen/URCap-VisionTemplate
+[submodule "URPlus Team/URCap-MotionBuilder"]
+	path = URPlus Team/URCap-MotionBuilder
+	url = https://github.com/BomMadsen/URCap-MotionBuilder
+[submodule "URPlus Team/URCap-CustomAPI"]
+	path = URPlus Team/URCap-CustomAPI
+	url = https://github.com/BomMadsen/URCap-CustomAPI
+[submodule "URPlus Team/URCap-UR3Screw"]
+	path = URPlus Team/URCap-UR3Screw
+	url = https://github.com/BomMadsen/URCap-UR3Screw
+[submodule "URPlus Team/URCap-getControllerTime"]
+	path = URPlus Team/URCap-getControllerTime
+	url = https://github.com/BomMadsen/URCap-getControllerTime
+[submodule "URPlus Team/skynet"]
+	path = URPlus Team/skynet
+	url = https://github.com/o5h/skynet
