@@ -133,15 +133,9 @@
 [submodule "URPlus Team/skynet"]
 	path = URPlus Team/skynet
 	url = https://github.com/o5h/skynet
-[submodule "Community/com.ur.urcap.coloredfolder"]
-	path = Community/com.ur.urcap.coloredfolder
-	url = https://github.com/t-fujiki/com.ur.urcap.coloredfolder
 [submodule "Community/com.takaaki.urcap.eipmonitor"]
 	path = Community/com.takaaki.urcap.eipmonitor
 	url = https://github.com/t-fujiki/com.takaaki.urcap.eipmonitor
-[submodule "Community/safetyhome"]
-	path = Community/safetyhome
-	url = https://github.com/t-fujiki/safetyhome
 [submodule "Community/com.ur.urcap.breakloop"]
 	path = Community/com.ur.urcap.breakloop
 	url = https://github.com/t-fujiki/com.ur.urcap.breakloop
